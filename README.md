@@ -55,7 +55,7 @@ Setup:
 
 2. Copy EmbyBan.exe to created directory
    ( Example: C:\EmbyBan )
-   (For automatic startup when windows boots, copy EmbyBan.exe to C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup)
+   (For the app to startup at boot, create and configure a task in windows task scheduler)
 
 3. Run EmbyBan.exe as Administrator
 
